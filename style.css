@@ -110,3 +110,11 @@ p {
 span {
     color: #2BD6B4;
 }
+
+footer {
+	background-color: #454647;
+	position: absolute; 
+	bottom: 0; 
+	left: 0; 
+	right: 0
+}
