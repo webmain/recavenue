@@ -1,3 +1,15 @@
+.imagehaut
+{
+top:0px;
+left:0px;
+width: 200px;
+height: 120px;
+background-image: url('LOGO.jpg');
+background-repeat: no-repeat;
+background-position: left bottom ;
+position:absolute;
+}
+
 body {
 	font-size: 24px;
 	font-family: sans-serif;
