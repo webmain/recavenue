@@ -13,7 +13,8 @@ position:absolute;
 body {
 	font-size: 24px;
 	font-family: sans-serif;
-	background: #2c3e50;
+	background-image:url(background.jpg);
+    background-repeat:no-repeat;
 }
 h1 {
 	text-align: center;

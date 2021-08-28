@@ -23,7 +23,7 @@ nav {
 	 */
 	width: 750px;
 	height: 150px;
-	background-color: #34495e;
+	background-color: #000000;
 	border-radius: 25px; /* Angle bordure menu déroulant */
 	font-size: 0;
 }
@@ -92,7 +92,8 @@ nav .start-contact, a:nth-child(5):hover~.animation {
 body {
 	font-size: 12px;
 	font-family: sans-serif;
-	background: #2c3e50;
+	background-image:url(background.jpg);
+    background-repeat:no-repeat;
 }
 h1 {
 	text-align: center;
